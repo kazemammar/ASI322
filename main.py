@@ -25,10 +25,12 @@ i=0
 print(publicIdsDict)
 
 i = 0
-for key in islice(publicIdsDict, 3):
+for key in publicIdsDict:
     profile = linkedin.get_profile(key)
     publicIdsDict[key]=profile["experience"][0]['companyName']
     i+=1
     print(i)
 
 print(publicIdsDict)
+with open('ENSTA_Entreprise.txt', 'w') as convert_file:
+    convert_file.write(json.dumps(publicIdsDict))
