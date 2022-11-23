@@ -1,0 +1,473 @@
+{
+  "lastName":"Ammar" ,
+  "student":false ,
+  "geoCountryUrn":"urn:li:fs_geo:105015875" ,
+  "geoLocationBackfilled":false ,
+  "entityUrn":"urn:li:fs_profile:ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg" ,
+  "headline":"Final year student @ENSTA PARIS" ,
+  "summary":"A highly motivated and ambitious individual able to give timely and accurate advice, guidance, support and training to team members and individuals. Possessing excellent management skills and having the ability to work with the minimum of supervision whilst leading a team of twelve or more. Having a proven ability to lead by example, consistently hit targets, improve best practices and organise time efficiently." ,
+  "industryName":"IT Services and IT Consulting" ,
+  "locationName":"France" ,
+  "geoCountryName":"France" ,
+  "elt":false ,
+  "profilePictureOriginalImage":{
+    "com.linkedin.common.VectorImage":{
+      "artifacts":[
+        {
+          "width":640 ,
+          "fileIdentifyingUrlPathSegment":"900_1200/0/1569011434467?m=AQLok5YBILX5EgAAAYSlHHAC0BSq4ZTkaXOhoShtt0Was1xT5c7mizz5uA&e=1669303815&v=beta&t=hKgRZzgC4uyIbuLu49f5J-_M81nDXQoyBme7NGR2p9A" ,
+          "expiresAt":1669303815000 ,
+          "height":640
+        } ,
+        {
+          "width":450 ,
+          "fileIdentifyingUrlPathSegment":"450_600/0/1569011434492?m=AQJORuEu4Ysx-AAAAYSlHHAC0aJOSlTtCtwpBhstlQNSgKf0XfaxmItWuQ&e=1669303815&v=beta&t=t0z6h9w4OFFJINIWAouv8EapZHl92U77WVGDeAV80pI" ,
+          "expiresAt":1669303815000 ,
+          "height":450
+        }
+      ] ,
+      "rootUrl":"https://www.linkedin.com/dms/C5604AQG6D_xOBqOJvw/profile-originalphoto-shrink_"
+    }
+  } ,
+  "birthDate":{
+    "month":8 ,
+    "day":29
+  } ,
+  "industryUrn":"urn:li:fs_industry:96" ,
+  "firstName":"Kazem Julien" ,
+  "profilePicture":{
+    "displayImage":"urn:li:digitalmediaAsset:C5603AQFvyWDmjzRr7w" ,
+    "originalImage":"urn:li:digitalmediaAsset:C5604AQG6D_xOBqOJvw" ,
+    "photoFilterEditInfo":{
+      "bottomLeft":{
+        "x":0.0 ,
+        "y":1.0
+      } ,
+      "saturation":0.0 ,
+      "brightness":0.0 ,
+      "vignette":0.0 ,
+      "photoFilterType":"ORIGINAL" ,
+      "bottomRight":{
+        "x":1.0 ,
+        "y":1.0
+      } ,
+      "topLeft":{
+        "x":0.0 ,
+        "y":2.2351741790771484e-08
+      } ,
+      "contrast":0.0 ,
+      "topRight":{
+        "x":1.0 ,
+        "y":2.2351741790771484e-08
+      }
+    }
+  } ,
+  "geoLocation":{
+    "geoUrn":"urn:li:fs_geo:107111801" ,
+    "postalCode":"91120"
+  } ,
+  "geoLocationName":"Palaiseau, \u00cele-de-France" ,
+  "location":{
+    "basicLocation":{
+      "countryCode":"fr" ,
+      "postalCode":"91120"
+    }
+  } ,
+  "backgroundPicture":{
+    "displayImage":"urn:li:digitalmediaAsset:C4D16AQHQoFNQ7PqClQ" ,
+    "originalImage":"urn:li:digitalmediaAsset:C4D04AQGFYLoHLHo4TQ" ,
+    "photoFilterEditInfo":{
+      "bottomLeft":{
+        "x":0.0 ,
+        "y":0.7352399814262753
+      } ,
+      "saturation":0.0 ,
+      "brightness":0.0 ,
+      "vignette":0.0 ,
+      "photoFilterType":"ORIGINAL" ,
+      "bottomRight":{
+        "x":0.9999999747378752 ,
+        "y":0.7352399814262753
+      } ,
+      "topLeft":{
+        "x":0.0 ,
+        "y":0.25904999345584656
+      } ,
+      "contrast":0.0 ,
+      "topRight":{
+        "x":0.9999999747378752 ,
+        "y":0.25904999345584656
+      }
+    }
+  } ,
+  "backgroundPictureOriginalImage":{
+    "com.linkedin.common.VectorImage":{
+      "artifacts":[
+        {
+          "width":754 ,
+          "fileIdentifyingUrlPathSegment":"396_1584/0/1625518881171?m=AQIoQxCAIzATvgAAAYSlHHAFPcZtugFkY7ZFIqGwwl7X9B4Q7IQX2sWgTw&e=1669303815&v=beta&t=vNqr4LRJFciMziZS5io-HQDhgOP1jpdeGooaefrVQHM" ,
+          "expiresAt":1669303815000 ,
+          "height":396
+        } ,
+        {
+          "width":380 ,
+          "fileIdentifyingUrlPathSegment":"200_800/0/1625518881171?m=AQIRX179gqpsbgAAAYSlHHAGPSqPjiOeQ_o0ISSJkN2RY77Nt8jifl1uTg&e=1669303815&v=beta&t=zK_XoQucFZ2IZIx7HizJ1ypBJrnZ-yd__t_6RwfVOno" ,
+          "expiresAt":1669303815000 ,
+          "height":200
+        }
+      ] ,
+      "rootUrl":"https://www.linkedin.com/dms/C4D04AQGFYLoHLHo4TQ/profile-originalbackgroundimage-shrink_"
+    }
+  } ,
+  "displayPictureUrl":"https://media-exp1.licdn.com/dms/image/C5603AQFvyWDmjzRr7w/profile-displayphoto-shrink_" ,
+  "profile_id":"ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg" ,
+  "experience":[
+    {
+      "locationName":"Paris, \u00cele-de-France, France" ,
+      "entityUrn":"urn:li:fs_position:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,1848201936)" ,
+      "geoLocationName":"Paris, \u00cele-de-France, France" ,
+      "geoUrn":"urn:li:fs_geo:106383538" ,
+      "companyName":"Accenture" ,
+      "timePeriod":{
+        "startDate":{
+          "month":10 ,
+          "year":2021
+        }
+      } ,
+      "description":"Achievements/Tasks:\n-Work on assisting projects and one-off events by offering support, encouragement and advice to prospective students regarding future consulting career paths." ,
+      "company":{
+        "employeeCountRange":{
+          "start":10001
+        } ,
+        "industries":[
+          "Information Technology and Services"
+        ]
+      } ,
+      "title":"Student Ambassador" ,
+      "region":"urn:li:fs_region:(fr,0)" ,
+      "companyUrn":"urn:li:fs_miniCompany:1033" ,
+      "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C560BAQHxpX1l8Av2Dg/company-logo_"
+    } ,
+    {
+      "locationName":"Paris, \u00cele-de-France, France" ,
+      "entityUrn":"urn:li:fs_position:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,1985594765)" ,
+      "geoLocationName":"Paris, \u00cele-de-France, France" ,
+      "geoUrn":"urn:li:fs_geo:106383538" ,
+      "companyName":"IDAKTO" ,
+      "timePeriod":{
+        "endDate":{
+          "month":9 ,
+          "year":2022
+        } ,
+        "startDate":{
+          "month":5 ,
+          "year":2022
+        }
+      } ,
+      "company":{
+        "employeeCountRange":{
+          "start":11 ,
+          "end":50
+        } ,
+        "industries":[
+          "Computer Software"
+        ]
+      } ,
+      "title":"Research And Development Engineer" ,
+      "region":"urn:li:fs_region:(fr,0)" ,
+      "companyUrn":"urn:li:fs_miniCompany:30705079" ,
+      "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQHnyiPDTvYTiQ/company-logo_"
+    } ,
+    {
+      "locationName":"Paris, \u00cele-de-France, France" ,
+      "entityUrn":"urn:li:fs_position:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,1880658286)" ,
+      "geoLocationName":"Paris, \u00cele-de-France, France" ,
+      "geoUrn":"urn:li:fs_geo:106383538" ,
+      "companyName":"IDAKTO" ,
+      "timePeriod":{
+        "endDate":{
+          "month":6 ,
+          "year":2022
+        } ,
+        "startDate":{
+          "month":10 ,
+          "year":2021
+        }
+      } ,
+      "company":{
+        "employeeCountRange":{
+          "start":11 ,
+          "end":50
+        } ,
+        "industries":[
+          "Computer Software"
+        ]
+      } ,
+      "title":"DevOps Engineer" ,
+      "region":"urn:li:fs_region:(fr,0)" ,
+      "companyUrn":"urn:li:fs_miniCompany:30705079" ,
+      "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQHnyiPDTvYTiQ/company-logo_"
+    } ,
+    {
+      "locationName":"Paris, \u00cele-de-France, France" ,
+      "entityUrn":"urn:li:fs_position:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,1737744898)" ,
+      "geoLocationName":"Paris, \u00cele-de-France, France" ,
+      "geoUrn":"urn:li:fs_geo:106383538" ,
+      "companyName":"Enstart Up" ,
+      "timePeriod":{
+        "endDate":{
+          "month":3 ,
+          "year":2022
+        } ,
+        "startDate":{
+          "month":2 ,
+          "year":2021
+        }
+      } ,
+      "description":"Achievements/Tasks:\n-Provide Students with the resources that will enable them to make a more informed choice of a major or career, and assist them regarding how to best prepare for the job market, as well as leadership roles." ,
+      "company":{
+        "employeeCountRange":{
+          "start":2 ,
+          "end":10
+        } ,
+        "industries":[
+          "Education Management"
+        ]
+      } ,
+      "title":"President" ,
+      "region":"urn:li:fs_region:(fr,0)" ,
+      "companyUrn":"urn:li:fs_miniCompany:67278474" ,
+      "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQFI0srcMDu97Q/company-logo_"
+    } ,
+    {
+      "entityUrn":"urn:li:fs_position:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,1808320586)" ,
+      "companyName":"IDAKTO" ,
+      "timePeriod":{
+        "endDate":{
+          "month":10 ,
+          "year":2021
+        } ,
+        "startDate":{
+          "month":7 ,
+          "year":2021
+        }
+      } ,
+      "description":"Achievements/Tasks:\n-Write, design, and execute automated tests by creating scripts that run testing functions automatically using Katalon Studio.\n-Create a large library of automated User Interface test cases using chromedp package to drive web browsers written in Go Programming Language and deploy them on different VPSs for performance testing.\n-Create and execute JMeter scripts for performance testing/load testing." ,
+      "company":{
+        "employeeCountRange":{
+          "start":11 ,
+          "end":50
+        } ,
+        "industries":[
+          "Computer Software"
+        ]
+      } ,
+      "title":"Test Automation Engineer" ,
+      "companyUrn":"urn:li:fs_miniCompany:30705079" ,
+      "companyLogoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQHnyiPDTvYTiQ/company-logo_"
+    }
+  ] ,
+  "skills":[
+    {
+      "name":"Katalon Studio"
+    } ,
+    {
+      "name":"Appium"
+    } ,
+    {
+      "name":"Virtual Private Server (VPS)"
+    } ,
+    {
+      "name":"Microsoft Azure"
+    } ,
+    {
+      "name":"YAML"
+    } ,
+    {
+      "name":"Docker Swarm"
+    } ,
+    {
+      "name":"Terraform"
+    } ,
+    {
+      "name":"Ansible"
+    } ,
+    {
+      "name":"Elastic Stack (ELK)"
+    } ,
+    {
+      "name":"Kubernetes"
+    } ,
+    {
+      "name":"DevOps"
+    } ,
+    {
+      "name":"PostgreSQL"
+    } ,
+    {
+      "name":"Amazon Web Services (AWS)"
+    } ,
+    {
+      "name":"Leadership" ,
+      "standardizedSkillUrn":"urn:li:fs_miniSkill:154" ,
+      "standardizedSkill":{
+        "name":"Leadership" ,
+        "entityUrn":"urn:li:fs_miniSkill:154"
+      }
+    } ,
+    {
+      "name":"Public Speaking" ,
+      "standardizedSkillUrn":"urn:li:fs_miniSkill:1101" ,
+      "standardizedSkill":{
+        "name":"Public Speaking" ,
+        "entityUrn":"urn:li:fs_miniSkill:1101"
+      }
+    } ,
+    {
+      "name":"Project Management" ,
+      "standardizedSkillUrn":"urn:li:fs_miniSkill:2269" ,
+      "standardizedSkill":{
+        "name":"Project Management" ,
+        "entityUrn":"urn:li:fs_miniSkill:2269"
+      }
+    } ,
+    {
+      "name":"Photography"
+    } ,
+    {
+      "name":"Event Management"
+    } ,
+    {
+      "name":"Agile Methodologies"
+    } ,
+    {
+      "name":"Object-Oriented Programming (OOP)"
+    } ,
+    {
+      "name":"c++"
+    } ,
+    {
+      "name":"Adobe Illustrator"
+    } ,
+    {
+      "name":"Adobe Photoshop"
+    } ,
+    {
+      "name":"Adobe Lightroom"
+    } ,
+    {
+      "name":"HTML"
+    } ,
+    {
+      "name":"C#"
+    } ,
+    {
+      "name":".NET Framework"
+    } ,
+    {
+      "name":".NET Core"
+    } ,
+    {
+      "name":"Microsoft PowerPoint"
+    } ,
+    {
+      "name":"Databases"
+    } ,
+    {
+      "name":"MATLAB"
+    } ,
+    {
+      "name":"Microsoft SQL Server"
+    } ,
+    {
+      "name":"Python (Programming Language)"
+    } ,
+    {
+      "name":"C (Programming Language)"
+    } ,
+    {
+      "name":"MySQL"
+    } ,
+    {
+      "name":"Negotiation"
+    } ,
+    {
+      "name":"Unix Administration"
+    } ,
+    {
+      "name":"Selenium"
+    } ,
+    {
+      "name":"Continuous Integration and Continuous Delivery (CI/CD)"
+    } ,
+    {
+      "name":"JMeter"
+    } ,
+    {
+      "name":"Jenkins"
+    }
+  ] ,
+  "education":[
+    {
+      "entityUrn":"urn:li:fs_education:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,675148557)" ,
+      "school":{
+        "objectUrn":"urn:li:school:12374" ,
+        "entityUrn":"urn:li:fs_miniSchool:12374" ,
+        "active":true ,
+        "schoolName":"ENSTA Paris" ,
+        "trackingId":"VU9QR4iHTzqyoQ68zbfRvg==" ,
+        "logoUrl":"https://media-exp1.licdn.com/dms/image/C4D0BAQF6ew7FkNLXOQ/company-logo_"
+      } ,
+      "timePeriod":{
+        "endDate":{
+          "year":2023
+        } ,
+        "startDate":{
+          "year":2020
+        }
+      } ,
+      "degreeName":"Engineering Degree" ,
+      "schoolName":"ENSTA Paris" ,
+      "fieldOfStudy":"Computer and Communication Engineering" ,
+      "schoolUrn":"urn:li:fs_miniSchool:12374"
+    } ,
+    {
+      "entityUrn":"urn:li:fs_education:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,561733439)" ,
+      "school":{
+        "objectUrn":"urn:li:school:161235" ,
+        "entityUrn":"urn:li:fs_miniSchool:161235" ,
+        "active":true ,
+        "schoolName":"Saint Joseph University of Beirut" ,
+        "trackingId":"6m9b/Yx1TOq/HWiM5XVaHg==" ,
+        "logoUrl":"https://media-exp1.licdn.com/dms/image/C4E0BAQE7bHpo7A3tcg/company-logo_"
+      } ,
+      "timePeriod":{
+        "endDate":{
+          "year":2020
+        } ,
+        "startDate":{
+          "year":2017
+        }
+      } ,
+      "degreeName":"Classes pr\u00e9paratoires aux Grandes \u00c9coles" ,
+      "schoolName":"Saint Joseph University of Beirut" ,
+      "fieldOfStudy":"Computer and Communication Engineering" ,
+      "schoolUrn":"urn:li:fs_miniSchool:161235"
+    } ,
+    {
+      "entityUrn":"urn:li:fs_education:(ACoAACkzeNcBbtaFEooAqvXTamiyv4_2qpq-TZg,612359024)" ,
+      "timePeriod":{
+        "endDate":{
+          "year":2017
+        } ,
+        "startDate":{
+          "year":2005
+        }
+      } ,
+      "fieldOfStudyUrn":"urn:li:fs_fieldOfStudy:100693" ,
+      "degreeName":"bacalaureat" ,
+      "schoolName":"Lycee Abdel Kader" ,
+      "fieldOfStudy":"Mathematics"
+    }
+  ]
+}
