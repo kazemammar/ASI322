@@ -1,26 +1,34 @@
 from linkedin_api import Linkedin
 import json
+from itertools import islice
 
-# api = Linkedin('kazemjulien.ammar@gmail.com','KazemASI322')
-# #ACoAABGenOABIM9Qn4d4TzyD0OdExJR4D2auU9M
+linkedin = Linkedin('kazem.ammar@ensta-paris.fr', 'KazemASI322')
+# # profile = linkedin.get_profile('kazem-julien-ammar')
 #
-# data = api.get_profile_connections('kazem-julien-ammar')
+# connections = linkedin.search_people(keywords='HEC Paris', network_depth='O')
 #
-# json_string = json.dumps(data)
+# json_string = json.dumps(connections)
 # print(json_string)
 
+# Opening JSON file
+with open('ENSTA.json') as json_file:
+    data = json.load(json_file)
 
-linkedin = Linkedin('kazemjulien.ammar@gmail.com', 'KazemASI322')
-# profile = linkedin.get_profile('kazem-julien-ammar')
+publicIds = []
 
-connections = linkedin.search_people(keywords='HEC Paris')
+for elt in data:
+    publicIds.append(elt["public_id"])
 
+publicIdsDict = dict.fromkeys(publicIds)
+i=0
 
-json_string = json.dumps(connections)
-print(json_string)
+print(publicIdsDict)
 
-# # Opening JSON file
-# with open('ENSTA.json') as json_file:
-#     data = json.load(json_file)
-#
-# print(data)
+i = 0
+for key in islice(publicIdsDict, 3):
+    profile = linkedin.get_profile(key)
+    publicIdsDict[key]=profile["experience"][0]['companyName']
+    i+=1
+    print(i)
+
+print(publicIdsDict)
