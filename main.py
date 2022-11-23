@@ -1,16 +1,13 @@
-# This is a sample Python script.
+from linkedin_api import Linkedin
+import json
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
+api = Linkedin('kazemjulien.ammar@gmail.com','KazemASI322')
+#ACoAABGenOABIM9Qn4d4TzyD0OdExJR4D2auU9M
+data = api.get_profile_connections("urn:li:person:")
+print(data)
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+# # Opening JSON file
+# with open('data.json') as json_file:
+#     data = json.load(json_file)
+#
+# print(data)
