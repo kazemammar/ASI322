@@ -2,8 +2,8 @@ from linkedin_api import Linkedin
 import json
 from itertools import islice
 
-linkedin = Linkedin('kazem.ammar@ensta-paris.fr', 'KazemASI322')
-# # profile = linkedin.get_profile('kazem-julien-ammar')
+
+# profile = linkedin.get_profile('kazem-julien-ammar')
 #
 # connections = linkedin.search_people(keywords='HEC Paris', network_depth='O')
 #
@@ -24,10 +24,16 @@ i=0
 
 print(publicIdsDict)
 
+file1 = open("myfile.txt", "a")
+
 i = 0
-for key in publicIdsDict:
+for key in publicIds[1:3]:
     profile = linkedin.get_profile(key)
-    publicIdsDict[key]=profile["experience"][0]['companyName']
+    if profile["experience"] == []:
+        print("The given key does not exist in the dictionary")
+    else:
+        publicIdsDict[key]=profile["experience"][0]['companyName']
+
     i+=1
     print(i)
 
